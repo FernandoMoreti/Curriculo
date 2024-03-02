@@ -27,6 +27,7 @@ body {
 }
 .cabeçalho__menu__link:hover {
     color: white;
+    transition: 0.5s;
 }
 .cabeçalho__img {
     height: 32px;

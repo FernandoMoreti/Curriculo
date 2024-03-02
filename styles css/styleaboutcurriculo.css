@@ -5,8 +5,8 @@
     padding: 0;
 }
 body {
-    background-image: url(https://img.freepik.com/free-photo/landscape-shot-white-textured-background_181624-30815.jpg?size=626&ext=jpg);
     width: 100%;
+    background-image: url(https://img.freepik.com/free-photo/landscape-shot-white-textured-background_181624-30815.jpg?size=626&ext=jpg);
 }
 .cabeçalho {
     padding: 3% 5% 1% 5%;
@@ -27,6 +27,7 @@ body {
 }
 .cabeçalho__menu__link:hover {
     color: white;
+    transition: 0.5s;
 }
 .cabeçalho__img {
     height: 32px;
